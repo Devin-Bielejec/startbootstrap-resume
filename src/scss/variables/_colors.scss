@@ -1,10 +1,10 @@
 // Pre-state grayscale colors used in other variables
 
-$gray-800: #343a40;
+$gray-800: var(--dark);
 
 // Override Bootstrap color system
 
-$orange: #bd5d38;
+$orange: var(--primary);
 
 // Override Bootstrap default state colors
 
